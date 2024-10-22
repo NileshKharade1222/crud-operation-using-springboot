@@ -1,6 +1,6 @@
-*Customer CRUD Application 🛠️ Welcome to the Customer CRUD Application! This project is designed to manage customer information through a simple yet powerful RESTful API built using Spring Boot. Features🚀: 1)Create Customer: Add new customers with essential details. 2)Update Customer: Modify existing customer information by phone number . 3)Retrieve Customers: Fetch all customers or a specific customer by phone number. 4)Delete Customer: Remove a customer from the database using their phone number. 5)Customer Login: Authenticate customers with phone number and email.
+*Student Management System CRUD Application 🛠️ Welcome to the Student Management System CRUD Application! This project is designed to manage student information through a simple yet powerful RESTful API built using Spring Boot. Features🚀: 1)Create Student: Add new Student with essential details. 2)Update Student: Modify existing Student information by ID. 3)Delete Student: Remove a Student from the database using their ID.
 
-*Technologies Used💻: 1)Spring Boot: For building the RESTful API. 2)Spring Data JPA: For database interaction. 3)Mysql Database: As an in-memory database for quick setup and testing. 4)Lombok: To reduce boilerplate code for model classes.
+*Technologies Used💻: 1)Spring Boot: For building the RESTful API. 2)Spring Data JPA: For database interaction. 3)Mysql Database: As an in-memory database for quick setup and testing.
 
 Prerequisites 📡: 1)Java 11 or higher 2)Maven 3)Postman (for API testing)
 
